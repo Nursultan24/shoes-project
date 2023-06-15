@@ -1,0 +1,71 @@
+{
+    "shoes": [
+        {
+            "id":0, 
+            "title":"КРОССОВКИ МУЖСКИЕ TURBO",
+            "price":"3337",
+            "img":"https://cdn.demix.ru/upload/mdm/media_content/resize/b3c/500_500_2bba/81050950299.jpg"
+        },
+        {
+            "id":1, 
+            "title":"КРОССОВКИ МУЖСКИЕ TURBO",
+            "price":"3337",
+            "img":"https://cdn.demix.ru/upload/mdm/media_content/resize/b3c/500_500_2bba/81050950299.jpg"
+        },
+        {
+            "id":2, 
+            "title":"КРОССОВКИ МУЖСКИЕ TURBO",
+            "price":"3337",
+            "img":"https://cdn.demix.ru/upload/mdm/media_content/resize/b3c/500_500_2bba/81050950299.jpg"
+        },
+        {
+            "id":3, 
+            "title":"КРОССОВКИ МУЖСКИЕ TURBO",
+            "price":"3337",
+            "img":"https://cdn.demix.ru/upload/mdm/media_content/resize/b3c/500_500_2bba/81050950299.jpg"
+        },
+        {
+            "id":4, 
+            "title":"КРОССОВКИ МУЖСКИЕ TURBO",
+            "price":"3337",
+            "img":"https://cdn.demix.ru/upload/mdm/media_content/resize/b3c/500_500_2bba/81050950299.jpg"
+        },
+        {
+            "id":5, 
+            "title":"КРОССОВКИ МУЖСКИЕ TURBO",
+            "price":"3337",
+            "img":"https://cdn.demix.ru/upload/mdm/media_content/resize/b3c/500_500_2bba/81050950299.jpg"
+        },
+        {
+            "id":6, 
+            "title":"КРОССОВКИ МУЖСКИЕ TURBO",
+            "price":"3337",
+            "img":"https://cdn.demix.ru/upload/mdm/media_content/resize/b3c/500_500_2bba/81050950299.jpg"
+        },
+        {
+            "id":7, 
+            "title":"КРОССОВКИ МУЖСКИЕ TURBO",
+            "price":"3337",
+            "img":"https://cdn.demix.ru/upload/mdm/media_content/resize/b3c/500_500_2bba/81050950299.jpg"
+        },
+        {
+            "id":8, 
+            "title":"КРОССОВКИ МУЖСКИЕ TURBO",
+            "price":"3337",
+            "img":"https://cdn.demix.ru/upload/mdm/media_content/resize/b3c/500_500_2bba/81050950299.jpg"
+        },
+        {
+            "id":9, 
+            "title":"КРОССОВКИ МУЖСКИЕ TURBO",
+            "price":"3337",
+            "img":"https://cdn.demix.ru/upload/mdm/media_content/resize/b3c/500_500_2bba/81050950299.jpg"
+        },
+        {
+            "id":10, 
+            "title":"КРОССОВКИ МУЖСКИЕ TURBO",
+            "price":"3337",
+            "img":"https://cdn.demix.ru/upload/mdm/media_content/resize/b3c/500_500_2bba/81050950299.jpg"
+        }
+
+    ]
+}
